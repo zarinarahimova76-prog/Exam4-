@@ -1,0 +1,4 @@
+/Users/rahimova/Exam4/obj/Debug/net10.0/Exam4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rahimova/Exam4/obj/Debug/net10.0/Exam4.AssemblyInfoInputs.cache
+/Users/rahimova/Exam4/obj/Debug/net10.0/Exam4.AssemblyInfo.cs
+/Users/rahimova/Exam4/obj/Debug/net10.0/Exam4.csproj.CoreCompileInputs.cache
